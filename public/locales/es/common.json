@@ -1,0 +1,8 @@
+{
+    "h1": "El Ejemplo Sencillo",
+    "change-locale": "es Change locale",
+    "to-second-page": "es To second page",
+    "error-with-status": "es A {{statusCode}} error occurred on server",
+    "error-without-status": "es An error occurred on the server",
+    "title": "es Home | next-i18next"
+  }

@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "i18next-locize-backend": "^5.0.0",
+    "i18next-locize-backend": "^6.0.0",
     "next": "12.0.10",
     "next-i18next": "^10.3.0",
     "react": "17.0.2",
